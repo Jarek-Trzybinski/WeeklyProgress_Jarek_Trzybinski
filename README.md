@@ -4,7 +4,7 @@ Udacity Front-End Web Developer Nanodegree
 ## Week 1 (19th Feb - 24th Feb) ##
 TODO
 - [ ] Complete the first project: Animal Trading Cards
-- [x] Copy all bookmarks from old forum
+- [ ] Copy all bookmarks from old forum
 
 ## Week 2 (16th Feb - 4th Mar) ##
 TODO
