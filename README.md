@@ -9,7 +9,7 @@ TODO
 ## Week 2 (16th Feb - 4th Mar) ##
 TODO
 - [ ] Complete Github course: How to Use Git and GitHub
-- [ ] Complete WebFoundations
+- [ ] Complete 1. WebFoundations
 
 ## Week 3 (5th Mar - 11th Mar) ##
 - [ ] Complete the second project: Build a Portfolio Site
