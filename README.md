@@ -2,4 +2,4 @@
 Udacity Front-End Web Developer Nanodegree
 
 TODO
-- [ ] Complete the first project: Animal Trading Cards
++ [ ] Complete the first project: Animal Trading Cards
