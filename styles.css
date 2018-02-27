@@ -1,0 +1,43 @@
+/* add your CSS here */
+#main {
+  border: 1px #D3D3D3 solid;
+  width: 300px;
+  padding:10px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px grey;
+
+}
+
+.AnimalName {
+  padding: 10px;
+}
+img {
+    padding-bottom: 5px;
+    border-radius: 10px;
+
+}
+
+.InterestingFact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  padding-left:0px;
+
+}
+.AnimalDescription {
+  width: 280px;
+  border: 1px #DCDCDC	 solid;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #F5F5F5;
+
+}
+.description {
+  text-align: justify;
+}
