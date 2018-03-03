@@ -8,10 +8,9 @@ TODO
 
 ## Week 2 (26th Feb - 4th Mar) ##
 TODO
-- [ ] Complete Github course: How to Use Git and GitHub
+- [ ] Complete Github course: How to Use Git and GitHub:
+ - [ ] Lesson 1: Navigating a Commit History
 - [ ] Complete 1. WebFoundations
---  [ ] Lesson 11
---  [ ] Lesson 12
 
 ## Week 3 (5th Mar - 11th Mar) ##
 - [ ] Complete the second project: Build a Portfolio Site
