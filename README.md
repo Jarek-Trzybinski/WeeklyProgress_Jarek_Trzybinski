@@ -17,6 +17,15 @@ Holiday
 Holiday
 
 ## Week 5 (19th Mar - 25th Mar) ##
-- [ ] Complete the second project: Build a Portfolio Site
-- [ ] How to Use Git and GitHub: Lesson 1: Navigating a Commit History
-- [ ] How to Use Git and GitHub: Lesson 2
+- [x] Complete the second project: Build a Portfolio Site
+
+## Week 6 (26th Mar - 1st Apr) ##
+- [ ] Correct second project: Build a Portfolio Site
+- [ ] Complete FEND 2.8 Lesson
+
+## Week 7 (2nd Apr - 8th Apr) ##
+- [ ] Complete FEND 2.9 Lesson - 2.13 Lesson
+
+## Week 8 (9th Apr - 15th Apr) ##
+- [ ] Comlete FEND 2.14 Lesson - 2.23 Lesson
+- [ ] Complete third project: Memory Game
