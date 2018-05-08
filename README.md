@@ -27,7 +27,15 @@ Holiday
 - [x] Complete FEND 2.9 Lesson - 2.10 Lesson
 
 ## Week 8 (9th Apr - 15th Apr) ##
-- [ ] Comlete FEND 2.14 Lesson - 2.23 Lesson
+- [x] Complete FEND 2.11 - Lesson - 2.12 Lesson
 
 ## Week 9 (16th Apr - 22nd Apr) ##
+- [x] Complete FEND 2.13 - Lesson - 2.14 Lesson
+## Week 10 (23rd Apr - 29 Apr) ##
+- [x] Complete FEND 2.15 Lesson - 2.16 Lesson
+## Week 11 (30th Apr - 6th May) ##
+- [x] Complete FEND 2.17 Lesson - 2.22 Lesson
+
+## Week 12 (7th May - 13th May)
+- [x] Complete FEND 2.23 Lesson
 - [ ] Complete third project: Memory Game
