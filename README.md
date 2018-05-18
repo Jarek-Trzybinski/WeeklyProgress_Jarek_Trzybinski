@@ -41,5 +41,5 @@ Holiday
 - [ ] Complete third project: Memory Game
 
 ## Week 13(14th May - 20th May)
-- [ ] Complete FEND 3.1 - 3.5 Lessons
+- [x] Complete FEND 3.1 - 3.2 Lessons
 
