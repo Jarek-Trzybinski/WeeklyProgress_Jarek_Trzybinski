@@ -39,3 +39,7 @@ Holiday
 ## Week 12 (7th May - 13th May)
 - [x] Complete FEND 2.23 Lesson
 - [ ] Complete third project: Memory Game
+
+## Week 13(14th May - 20th May)
+- [ ] Complete FEND 3.1 - 3.5 Lessons
+
