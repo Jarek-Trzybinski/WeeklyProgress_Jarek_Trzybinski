@@ -36,10 +36,16 @@ Holiday
 ## Week 11 (30th Apr - 6th May) ##
 - [x] Complete FEND 2.17 Lesson - 2.22 Lesson
 
-## Week 12 (7th May - 13th May)
+## Week 12 (7th May - 13th May) ##
 - [x] Complete FEND 2.23 Lesson
-- [ ] Complete third project: Memory Game
 
-## Week 13(14th May - 20th May)
+
+## Week 13(14th May - 20th May) ##
 - [x] Complete FEND 3.1 - 3.2 Lessons
 
+## Week 14(21st May - 27th May) ##
+- [x] Complete FEND 3.3 - 3.6 Lessons
+
+## Week 14(21st May - 27th May) ##
+- [x] Complete FEND 3.7 - 3.12 Lessons
+- [ ] Complete third project: Memory Game
