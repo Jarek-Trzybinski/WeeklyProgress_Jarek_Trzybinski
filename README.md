@@ -20,7 +20,7 @@ Holiday
 - [x] Complete the second project: Build a Portfolio Site
 
 ## Week 6 (26th Mar - 1st Apr) ##
-- [ ] Correct second project: Build a Portfolio Site
+- [x] Correct second project: Build a Portfolio Site
 - [x] Complete FEND 2.8 Lesson
 
 ## Week 7 (2nd Apr - 8th Apr) ##
@@ -48,4 +48,16 @@ Holiday
 
 ## Week 14(21st May - 27th May) ##
 - [x] Complete FEND 3.7 - 3.12 Lessons
-- [ ] Complete third project: Memory Game
+
+## Week 14(28th May - 3rd June) ##
+- [x] Complete FEND 3.14 - 3.15 Lessons
+
+## Week 15(4th May - 10th June) ##
+Holiday
+
+## Week 16(11th May - 17th June) ##
+Holiday
+
+## Week 17(18th May - 24th June) ##
+- [ ] Complete P3: Memory Game
+- [ ] Complete FEND 3.16 - 3.22 Lessons
