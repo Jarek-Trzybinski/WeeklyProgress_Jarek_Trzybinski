@@ -66,4 +66,4 @@ Holiday
 
 ## Week 18 (2nd Sep - 8 Sep) ##
 - [ ] Complete P4: Classic Arcade Game Clone
-- Complete FEND 3.19 - 3.22 Lessons
+- [ ] Complete FEND 3.19 - 3.22 Lessons
