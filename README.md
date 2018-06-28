@@ -59,5 +59,11 @@ Holiday
 Holiday
 
 ## Week 17(18th May - 24th June) ##
+- [x] Complete FEND 3.16 - 3.18 Lessons
+
+## Week 17(25th May - 1st Sep) ##
 - [ ] Complete P3: Memory Game
-- [ ] Complete FEND 3.16 - 3.22 Lessons
+
+## Week 18 (2nd Sep - 8 Sep) ##
+- [ ] Complete P4: Classic Arcade Game Clone
+- Complete FEND 3.19 - 3.22 Lessons
