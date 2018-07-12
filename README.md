@@ -66,4 +66,9 @@ Holiday
 
 ## Week 18 (2nd Sep - 8 Sep) ##
 - [ ] Complete P4: Classic Arcade Game Clone
+
+## Week 19 (9th Sep - 15th Sep) ##
 - [ ] Complete FEND 3.19 - 3.22 Lessons
+
+## Week 20 (16th Sep - 22nd Sep) ##
+- [ ] Complete P5: Feed Reader Testing
