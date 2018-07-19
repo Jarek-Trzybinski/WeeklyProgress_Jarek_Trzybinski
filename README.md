@@ -65,7 +65,7 @@ Holiday
 - [x] Complete P3: Memory Game
 
 ## Week 18 (2nd Sep - 8 Sep) ##
-- [ ] Complete P4: Classic Arcade Game Clone
+- [x] Complete P4: Classic Arcade Game Clone
 
 ## Week 19 (9th Sep - 15th Sep) ##
 - [ ] Complete FEND 3.19 - 3.22 Lessons
